@@ -12,72 +12,32 @@
       <a href="https://tlgg.ru/bogdanaks"><img src="https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social"/><a/>
       <hr>
       <h4>Famous projects</h4>
-      <table style="border: 1px solid #6cf">
-        <tr style="font-weight: normal;
-            font-size: 13px;
-            color: #039;
-            text-transform: uppercase;
-            border-right: 1px solid #0865c2;
-            border-top: 1px solid #0865c2;
-            border-left: 1px solid #0865c2;
-            border-bottom: 1px solid #fff;
-            padding: 20px;">
+      <table>
+        <tr>
           <th>Name</th>
           <th>hescription</th>
           <th>Git</th>
           <th>Demo</th>
         </tr>
-        <tr style="font-weight: normal;
-            font-size: 13px;
-            color: #039;
-            text-transform: uppercase;
-            border-right: 1px solid #0865c2;
-            border-top: 1px solid #0865c2;
-            border-left: 1px solid #0865c2;
-            border-bottom: 1px solid #fff;
-            padding: 20px;">
+        <tr>
           <td>Messenger</td>
           <td>Test task, simple chat</td>
           <td><a href="https://github.com/bogdanaks/messenger">Git</a></td>
           <td></td>
         </tr>
-        <tr style="font-weight: normal;
-            font-size: 13px;
-            color: #039;
-            text-transform: uppercase;
-            border-right: 1px solid #0865c2;
-            border-top: 1px solid #0865c2;
-            border-left: 1px solid #0865c2;
-            border-bottom: 1px solid #fff;
-            padding: 20px;">
+        <tr>
           <td>Doccure</td>
           <td>Doctor search service</td>
           <td><a href="https://github.com/bogdanaks/doccure">Git</a></td>
           <td></td>
         </tr>
-        <tr style="font-weight: normal;
-            font-size: 13px;
-            color: #039;
-            text-transform: uppercase;
-            border-right: 1px solid #0865c2;
-            border-top: 1px solid #0865c2;
-            border-left: 1px solid #0865c2;
-            border-bottom: 1px solid #fff;
-            padding: 20px;">
+        <tr>
           <td>PasLib</td>
           <td>Site for storing your passwords</td>
           <td><a href="https://github.com/bogdanaks/paslib">Git</a></td>
           <td></td>
         </tr>
-        <tr style="font-weight: normal;
-            font-size: 13px;
-            color: #039;
-            text-transform: uppercase;
-            border-right: 1px solid #0865c2;
-            border-top: 1px solid #0865c2;
-            border-left: 1px solid #0865c2;
-            border-bottom: 1px solid #fff;
-            padding: 20px;">
+        <tr>
           <td>Stickers</td>
           <td>Unusual todo sheet, in sticker format</td>
           <td><a href="https://github.com/bogdanaks/stickers">Git</a></td>
