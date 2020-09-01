@@ -1,4 +1,10 @@
-        ![](https://github.com/bogdanaks/bogdanaks/blob/master/animation.gif)
+![Gif](https://github.com/bogdanaks/bogdanaks/blob/master/animation.gif)
+<html>
+    <head>
+        <mate charest="utf-8" />
+    </head>
+    <body>
+		  
   		<p>I'm Bogdan. I love the Frontend, in particular React JS 💎</p>
   		<p>🌱 I'm currently looking for a job now</p>
   		<p>📫 How to reach me:</p>
@@ -38,3 +44,5 @@
           <td><a href="https://bogdanaks.github.io/stickers/">Demo</a></td>
         </tr>
       </table>
+    </body>
+</html>
