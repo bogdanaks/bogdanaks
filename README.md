@@ -1,7 +1,6 @@
 <html>
     <head>
         <mate charest="utf-8" />
-        <title>bogdanaks</title>
     </head>
     <body>
       <h1>Hi there 👋</h1>
@@ -15,7 +14,7 @@
       <table>
         <tr>
           <th>Name</th>
-          <th>hescription</th>
+          <th>Description</th>
           <th>Git</th>
           <th>Demo</th>
         </tr>
