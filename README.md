@@ -1,8 +1,3 @@
-<html>
-    <head>
-        <mate charest="utf-8" />
-    </head>
-    <body>
         ![](https://github.com/bogdanaks/bogdanaks/blob/master/animation.gif)
   		<p>I'm Bogdan. I love the Frontend, in particular React JS 💎</p>
   		<p>🌱 I'm currently looking for a job now</p>
@@ -43,5 +38,3 @@
           <td><a href="https://bogdanaks.github.io/stickers/">Demo</a></td>
         </tr>
       </table>
-    </body>
-</html>
