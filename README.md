@@ -20,11 +20,17 @@
 	</tr>
 	<tr>
 	  <td>Messenger</td>
-	  <td>Test task, simple chat</td>
-	  <td><a href="https://github.com/bogdanaks/messenger">Git</a></td>
+	  <td>Pet-Project</td>
+	  <td><a href="https://github.com/bogdanaks/messenger2">Git</a></td>
 	  <td></td>
 	</tr>
 	<tr>
+	<tr>
+	  <td>Stickers</td>
+	  <td>Unusual todo sheet, in sticker format</td>
+	  <td><a href="https://github.com/bogdanaks/stickers">Git</a></td>
+	  <td><a href="https://bogdanaks.github.io/stickers/">Demo</a></td>
+	</tr>
 	  <td>Doccure</td>
 	  <td>Doctor search service</td>
 	  <td><a href="https://github.com/bogdanaks/doccure">Git</a></td>
@@ -35,12 +41,6 @@
 	  <td>Site for storing your passwords</td>
 	  <td><a href="https://github.com/bogdanaks/paslib">Git</a></td>
 	  <td></td>
-	</tr>
-	<tr>
-	  <td>Stickers</td>
-	  <td>Unusual todo sheet, in sticker format</td>
-	  <td><a href="https://github.com/bogdanaks/stickers">Git</a></td>
-	  <td><a href="https://bogdanaks.github.io/stickers/">Demo</a></td>
 	</tr>
 	</table>
     </body>
