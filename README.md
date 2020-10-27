@@ -26,6 +26,12 @@
 	</tr>
 	<tr>
 	<tr>
+	  <td>QRCode Generator</td>
+	  <td>Create qr code of any color, size, and adjust the stroke</td>
+	  <td><a href="https://github.com/bogdanaks/qrcode">Git</a></td>
+	  <td><a href="https://bogdanaks.github.io/qrcode//">Demo</a></td>
+	</tr>
+	<tr>
 	  <td>Stickers</td>
 	  <td>Unusual todo sheet, in sticker format</td>
 	  <td><a href="https://github.com/bogdanaks/stickers">Git</a></td>
