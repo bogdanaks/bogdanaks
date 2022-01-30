@@ -7,7 +7,7 @@
 	<p>Hi! =)</p>
 	<p>📫 How to reach me:</p>
         <a href="https://www.linkedin.com/in/bogdanaks/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"/><a/>
-        <a href="https://tlgg.ru/bogdanaks"><img src="https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social"/><a/>
+        <a href="https://t.me/bogdanaks"><img src="https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social"/><a/>
 	<hr>
 	<h4>Famous projects</h4>
 	<table>
